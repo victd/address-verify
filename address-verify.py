@@ -1,5 +1,7 @@
 import smtplib
 
+# SMTP address verify
+
 server = smtplib.SMTP('mail')
 server.set_debuglevel(True)  # show communication with the server
 try:
