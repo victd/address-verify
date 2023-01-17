@@ -1,7 +1,7 @@
 import smtplib
 
 # SMTP address verify
-# from HHOF rollcall, DIGITS, BI relaunch filter
+# from HHOF rollcall, DIGITS, BI relaunch SP exclusions
 
 server = smtplib.SMTP('mail')
 server.set_debuglevel(True)  # show communication with the server
