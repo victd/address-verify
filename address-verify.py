@@ -1,7 +1,7 @@
 import smtplib
 
 # SMTP address verify
-# from HHOF rollcall, DIGITS, BI relaunch SP exclusions
+# from HHOF rollcall, DIGITS, BI relaunch StoredProc exclusions
 # hbrink and pad
 
 server = smtplib.SMTP('mail')
