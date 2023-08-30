@@ -2,7 +2,7 @@ import smtplib
 
 # SMTP address verify
 # from HHOF rollcall, DIGITS, BI relaunch StoredProc exclusions
-# hbrink and pad ford centre
+# hbrink and pad ford centre, repository
 
 server = smtplib.SMTP('mail')
 server.set_debuglevel(True)  # show communication with the server
